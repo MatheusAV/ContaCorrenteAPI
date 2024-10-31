@@ -1,0 +1,12 @@
+# Ignorar arquivos e pastas temporárias do Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+
+# Ignorar pastas de build e arquivos de dependência
+bin/
+obj/
+
+# Ignorar arquivos de configuração locais
+appsettings.Development.json
